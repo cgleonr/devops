@@ -35,3 +35,17 @@ To ensure a smooth collaboration, please follow these guidelines when making con
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to contact the maintainers of this repository at [ADD YOUR NAME](mailto:your.E-mail@stud.hslu.ch), [chris.imholz@stud.hslu.ch](mailto:chris.imholz@stud.hslu.ch).
+
+## Authors
+**Authors:** *Chris Imholz*[^readme-1], *Natasha Kovacheva*[^readme-2], *Daniel Herrera*[^readme-3], *Carlos Leon*[^readme-4], *Ramon Burkhard*[^readme-5]
+
+[^readme-1]: *Email: [chris.imohlz\@stud.hslu.ch](mailto:chris.imholz.gerber@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
+
+[^readme-2]: *Email: [kovaceva.natasa\@gmail.com](mailto:kovaceva.natasa@gmail.com). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
+
+[^readme-3]: *Email: [daniel.herrerarussert\@stud.hslu.ch](mailto:daniel.herrerarussert@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
+
+[^readme-4]: *Email: [carlos.leon\@stud.hslu.ch](mailto:carlos.leon@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
+
+[^readme-5]: *Email: [alainramon.burkhard\@stud.hslu.ch](mailto:alainramon.burkhard@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
+
