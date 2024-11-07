@@ -13,11 +13,11 @@ The repository is organized as follows:
 ## Getting Started
 
 1. Clone the repository to your local machine using the following command:
-```
+    ```
     >git clone <https://github.com/cgleonr/devops.git>
-```
-3. Explore the repository structure to find the resources you need.
-4. If you plan to contribute to this repository, please follow the guidelines outlined in the section Collaboration.
+    ```
+2. Explore the repository structure to find the resources you need.
+3. If you plan to contribute to this repository, please follow the guidelines outlined in the section Collaboration.
 
 ## Collaboration
 
