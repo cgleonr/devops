@@ -45,7 +45,7 @@ If you have any questions, suggestions, or feedback, feel free to contact the ma
 
 [^readme-1]: *Email: [chris.imohlz\@stud.hslu.ch](mailto:chris.imholz.gerber@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
 
-[^readme-2]: *Email: [natasha.kovacheva\@stud.hslu.com](mailto:natasha.kovacheva@stud.hslu.com). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
+[^readme-2]: *Email: [natasha.kovacheva\@stud.hslu.ch](mailto:natasha.kovacheva@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
 
 [^readme-3]: *Email: [daniel.herrerarussert\@stud.hslu.ch](mailto:daniel.herrerarussert@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/).*
 
