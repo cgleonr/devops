@@ -34,4 +34,4 @@ To ensure a smooth collaboration, please follow these guidelines when making con
 
 
 ## Contact
-If you have any questions, suggestions, or feedback, feel free to contact the maintainers of this repository at [ADD YOUR NAME](mailto:your.E-mail@stud.hslu.ch), [chris.imholz@stud.hslu.ch](mailto:chris.imholz@stud.hslu.ch).
+If you have any questions, suggestions, or feedback, feel free to contact the maintainers of this repository at [ADD YOUR NAME](mailto:your.E-mail@stud.hslu.ch), [Chris Imholz](mailto:chris.imholz@stud.hslu.ch), [Daniel Herrera](mailto:daniel.herrerarussert@stud.hslu.ch).
